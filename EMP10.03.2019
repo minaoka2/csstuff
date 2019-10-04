@@ -1,0 +1,21 @@
+// Problems using substring
+
+// Write a function that returns the number of a particular target letter within some i and j of a String using substring.
+public String targetLetter(String word, int i, int j) {
+
+}
+
+
+// Problems using classes
+
+// Write a Shape class that has:
+// One class variable that keeps track of the number of Shapes made
+// One constructor that will increment our class variable
+// One instance method, getArea, that returns 0.
+// Next, write three children classes called Rectangle, Triangle, and Circle.
+// Each of these should implement their own getArea and should store instance variables for properties
+
+// Now, write an Animal class that has one instance method: speak();
+// Create children of this class (Dog, Cat, Bird, and Fox) that each implements speak();
+
+// Now, try experimenting with creating objects of these classes and practicing some polymorphism concepts
